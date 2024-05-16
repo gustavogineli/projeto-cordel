@@ -10,6 +10,7 @@
   --fonte2: 'Passion One', cursive;
   --fonte3: 'Sriracha', cursive;
 }
+
 * {
   margin: 0px;
   padding: 0px;
@@ -31,7 +32,7 @@ header > h1 {
   padding-top: 50px;
   font-variant: small-caps;
   font-family: var(--fonte2);
-  font-size: 3.5em;
+  font-size: 4.5em;
 }
 
 header > p {
